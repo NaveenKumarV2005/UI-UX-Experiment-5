@@ -90,10 +90,9 @@ User interviews provide **qualitative insights** into personal health routines a
 - Improve long-term health and fitness
 
 ## Output
-<img width="1918" height="975" alt="image" src="https://github.com/user-attachments/assets/61224d23-7c35-4cee-a485-f983db8c7a53" />
-<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/83c8c024-c8f6-4177-9123-4c63badd5c98" />
-<img width="1918" height="969" alt="image" src="https://github.com/user-attachments/assets/475c642b-54ff-4343-82b0-8985e0d34388" />
-
+<img width="1918" height="840" alt="uu1" src="https://github.com/user-attachments/assets/26fca535-27c5-44fd-97ad-c988fd5ceefc" />
+<img width="1919" height="846" alt="uu2" src="https://github.com/user-attachments/assets/912f26db-947c-497f-afa0-5c4ba5dfae24" />
+<img width="1918" height="846" alt="uu3" src="https://github.com/user-attachments/assets/07692967-9f61-4e82-bf5f-81170b385190" />
 
 # Scenario 2: E-Commerce Shopping Website
 
