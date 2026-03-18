@@ -183,7 +183,8 @@ Usability testing helps identify **interaction problems in real scenarios**, whi
 ## Output
 <img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/9f84c21b-099a-40ef-9c97-215effc17ecf" />
 <img width="1919" height="821" alt="image" src="https://github.com/user-attachments/assets/57a70ee8-9dd8-4eba-8d68-3cfb6f62965e" />
-<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/9f2f7aca-66fe-446b-bed3-8eb8c2b9855b" />
+<img width="1919" height="900" alt="uu4" src="https://github.com/user-attachments/assets/637afa32-07ec-4c21-b3c5-b64bbfdcc27d" />
+
 
 ## Result
 
